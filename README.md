@@ -1,2 +1,2 @@
 # hello-world
-git/github 공
+Study git/github
